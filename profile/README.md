@@ -12,7 +12,7 @@ We are a passionate, student-led engineering design team at Western University i
 - **Payload**: Handles the scientific experiments and cargo our rockets carry.
 
 ### Achievements 🌟
-As of our 2022-2023 season we have...
+As of our 2022-2024 season we have...
 - Successfully launched our rockets at Spaceport America Cup.
 - Ranked 41st out of 93 teams in our first appearance at the competition.
 - Developed innovative rockets with homemade carbon fiber bodies and advanced avionics.
